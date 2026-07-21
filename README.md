@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=200&amp;section=header&amp;text=Dhanush%20S&amp;fontSize=60&amp;fontColor=2EA3F2&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=B.Tech%20AI%20%26%20Data%20Science%20Student&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=200&amp;section=header&amp;text=Dhanush%20S&amp;fontSize=60&amp;fontColor=2EA3F2&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=B.Tech%20AI%20and%20Data%20Science%20Student&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=2EA3F2&amp;background=0D111700&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Dhanush+S+%F0%9F%91%8B;B.Tech+AI+Data+Science+Student;Always+Exploring+New+Tech" alt="Typing SVG" />
 
